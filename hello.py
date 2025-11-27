@@ -1,4 +1,4 @@
-def hello_worl():
+def hello_world():
     print("Hello, World!")
 
 def foo(a):
